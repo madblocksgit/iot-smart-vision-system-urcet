@@ -6,6 +6,17 @@ Official repo for a project submitted by a team from URCET to our Project Develo
 https://github.com/davisking/dlib
 
 # packages needed to install
-pip install face_recognition
-pip install pyTelegramBotAPI
-pip install python-telegram-bot
+pip install face_recognition <br/>
+pip install pyTelegramBotAPI <br/>
+pip install python-telegram-bot <br/>
+
+# Process
+Step - 1: Download all these files
+
+Step - 2: Install Dlib Package
+
+Step - 3: Install the supported packages
+
+Step - 4: Run main.py and app.py
+
+
