@@ -11,6 +11,9 @@ pip install pyTelegramBotAPI <br/>
 pip install python-telegram-bot <br/>
 
 # Process
+
+Step - 0: Create a Virtual Environment
+
 Step - 1: Download all these files
 
 Step - 2: Install Dlib Package
